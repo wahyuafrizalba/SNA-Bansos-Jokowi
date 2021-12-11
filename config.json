@@ -4,11 +4,11 @@
   "data": "data.json",
   "logo": {
     "file": "https://www.dpr.go.id/images/logo.png",
-    "link": "harmoko.herokuapp.com",
+    "link": "",
     "text": "Waba Rizal"
   },
   "text": {
-    "more": "SNA tentang Bansos-Jokowi",
+    "more": "SNA tentang Bansos-Jokowi\nData dikumpulkan dari twitter\nData diambil pada 11 Desember 2021 Pukul 14.48 - 16.30 WIB",
     "intro": "SNA tentang Bansos-Jokowi",
     "title": "Bansos-Jokowi"
   },
